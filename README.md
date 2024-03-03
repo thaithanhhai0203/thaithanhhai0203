@@ -55,38 +55,23 @@
   <img src="./assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
   <img src="./assets/cassandra.png" alt="cassandra" width="40" height="40"/>
   <img src="./assets/elasticsearch.png" alt="elasticsearch" width="40" height="40"/>
-  <img src="./assets/redis.svg" alt="redis" width="40" height="40"/>\
+  <img src="./assets/redis.svg" alt="redis" width="40" height="40"/>
 </div>
 
 
 ### Devops
 
 <div style="display: flex; gap: 0.25rem">
-  <img src="./assets/aws.svg" alt="aws" width="40" height="40"/>
+  <img src="./assets/aws.jpg" alt="aws" width="40" height="40"/>
   <img src="./assets/docker.svg" alt="docker" width="40" height="40"/>
-  <img src="./assets/jenkins.svg" alt="jenkins" width="40" height="40"/>
-  <img src="./assets/docker.svg" alt="docker" width="40" height="40"/>
-  <img src="./assets/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="./assets/ansible.svg" alt="ansible" width="40" height="40"/>
-  <img src="./assets/terraform.svg" alt="terraform" width="40" height="40"/>
-  <img src="./assets/gitlab-cicd.svg" alt="gitlabcicd" width="40" height="40"/>
-  <img src="./assets/github-action.svg" alt="github-action" width="40" height="40"/>
-  <img src="./assets/grafana.svg" alt="grafana" width="40" height="40"/>
+  <img src="./assets/jenkins.png" alt="jenkins" width="40" height="40"/>
+  <img src="./assets/kubernetes.png" alt="kubernetes" width="40" height="40"/>
+  <img src="./assets/ansible.jpg" alt="ansible" width="40" height="40"/>
+  <img src="./assets/terraform.png" alt="terraform" width="40" height="40"/>
+  <img src="./assets/gitlab-cicd.jpg" alt="gitlabcicd" width="40" height="40"/>
+  <img src="./assets/github-action.jpg" alt="github-action" width="40" height="40"/>
+  <img src="./assets/grafana.jpg" alt="grafana" width="40" height="40"/>
 </div>
-
-### Database
-
-<div style="display: flex; gap: 0.25rem">
-	<img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-	<img src="./assets/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-	<img src="./assets/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-	<img src="./assets/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-	<img src="./assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	<img src="./assets/oracle-original.svg" alt="oracle" width="40" height="40"/>
-	<img src="./assets/rabbitmq-wordmark.svg" alt="RabbitMQ" width="40" height="40"/>
-	<img src="./assets/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</div>
-
 
 ### Other
 
