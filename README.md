@@ -51,11 +51,11 @@
 
 <div style="display: flex; gap: 0.25rem">
   <img src="./assets/mysql.svg" alt="mysql" width="40" height="40"/>
-  <img src="./assets/postgress.svg" alt="postgress" width="40" height="40"/>
+  <img src="./assets/postgress.jpg" alt="postgress" width="40" height="40"/>
   <img src="./assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
-  <img src="./assets/cassandra.svg" alt="cassandra" width="40" height="40"/>
-  <img src="./assets/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/>
-  <img src="./assets/redis" alt="redis" width="40" height="40"/>\
+  <img src="./assets/cassandra.png" alt="cassandra" width="40" height="40"/>
+  <img src="./assets/elasticsearch.png" alt="elasticsearch" width="40" height="40"/>
+  <img src="./assets/redis.svg" alt="redis" width="40" height="40"/>\
 </div>
 
 
