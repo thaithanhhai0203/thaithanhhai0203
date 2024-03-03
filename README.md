@@ -27,7 +27,7 @@
 
 <div style="display: flex; gap: 0.25rem">
 	<img src="./assets/react.svg" alt="react" width="40" height="40"/>
-	<img src="./assets/nextjs.svg" alt="next.js" width="40" height="40"/>
+	<img src="./assets/nextjs.jpg" alt="next.js" width="40" height="40"/>
 	<img src="./assets/redux.svg" alt="redux" width="40" height="40"/>
   <img src="./assets/html5.svg" alt="html5" width="40" height="40"/>
 	<img src="./assets/css3.svg" alt="css3" width="40" height="40"/>
