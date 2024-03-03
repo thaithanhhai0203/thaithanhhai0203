@@ -38,7 +38,7 @@
 
 <div style="display: flex; gap: 0.25rem">
   <img src="./assets/nestjs.svg" alt="nest.js" width="40" height="40"/>
-  <img src="./assets/express.svg" alt="express" width="40" height="40"/>
+  <img src="./assets/express.png" alt="express" width="40" height="40"/>
   <img src="./assets/spring-boot.svg" alt="spring" width="40" height="40"/>
   <img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/>
   <img src="./assets/jest.svg" alt="jest" width="40" height="40"/>
