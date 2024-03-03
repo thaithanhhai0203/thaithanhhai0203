@@ -29,7 +29,7 @@
 	<img src="./assets/react.svg" alt="react" width="40" height="40"/>
 	<img src="./assets/nextjs.jpg" alt="next.js" width="40" height="40"/>
 	<img src="./assets/redux.svg" alt="redux" width="40" height="40"/>
-  <img src="./assets/html5.svg" alt="html5" width="40" height="40"/>
+    <img src="./assets/html5.svg" alt="html5" width="40" height="40"/>
 	<img src="./assets/css3.svg" alt="css3" width="40" height="40"/>
   <img src="./assets/sass.svg" alt="sass" width="40" height="40"/>
 </div>
@@ -37,36 +37,35 @@
 ### Backend Development
 
 <div style="display: flex; gap: 0.25rem">
-	<img src="./assets/nestjs.svg" alt="nest.js" width="40" height="40"/>
-	<img src="./assets/express.svg" alt="express" width="40" height="40"/>
+  <img src="./assets/nestjs.svg" alt="nest.js" width="40" height="40"/>
+  <img src="./assets/express.svg" alt="express" width="40" height="40"/>
   <img src="./assets/spring-boot.svg" alt="spring" width="40" height="40"/>
-  <img src="./assets/gin.svg" alt="gin" width="40" height="40"/>
-	<img src="./assets/docker.svg" alt="docker" width="40" height="40"/>
   <img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/>
   <img src="./assets/jest.svg" alt="jest" width="40" height="40"/>
-  <img src="./assets/apache-kafka.svg" alt="apache-kafka" width="40" height="40"/>
-  <img src="./assets/rabbit-mq" alt="rabbit-mq" width="40" height="40"/>
+  <img src="./assets/prisma.jpg" alt="prisma" width="40" height="40"/>
+  <img src="./assets/apache-kafka.jpg" alt="apache-kafka" width="40" height="40"/>
+  <img src="./assets/rabbit-mq.png" alt="rabbit-mq" width="40" height="40"/>
 </div>
 
 ### Database
 
 <div style="display: flex; gap: 0.25rem">
-	<img src="./assets/mysql.svg" alt="mysql" width="40" height="40"/>
-	<img src="./assets/postgress.svg" alt="postgress" width="40" height="40"/>
+  <img src="./assets/mysql.svg" alt="mysql" width="40" height="40"/>
+  <img src="./assets/postgress.svg" alt="postgress" width="40" height="40"/>
   <img src="./assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
   <img src="./assets/cassandra.svg" alt="cassandra" width="40" height="40"/>
-	<img src="./assets/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/>
-	<img src="./assets/redis" alt="redis" width="40" height="40"/>\
+  <img src="./assets/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/>
+  <img src="./assets/redis" alt="redis" width="40" height="40"/>\
 </div>
 
 
 ### Devops
 
 <div style="display: flex; gap: 0.25rem">
-	<img src="./assets/aws.svg" alt="aws" width="40" height="40"/>
+  <img src="./assets/aws.svg" alt="aws" width="40" height="40"/>
   <img src="./assets/docker.svg" alt="docker" width="40" height="40"/>
   <img src="./assets/jenkins.svg" alt="jenkins" width="40" height="40"/>
-  <img src="./assets/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="./assets/docker.svg" alt="docker" width="40" height="40"/>
   <img src="./assets/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
   <img src="./assets/ansible.svg" alt="ansible" width="40" height="40"/>
   <img src="./assets/terraform.svg" alt="terraform" width="40" height="40"/>
