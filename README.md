@@ -20,7 +20,7 @@
 	<img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/>
 	<img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/>
   <img src="./assets/java.svg" alt="java" width="40" height="40"/>
-  <img src="./assets/golang.svg" alt="golang" width="40" height="40"/>
+  <img src="./assets/golang.png" alt="golang" width="40" height="40"/>
 </div>
 
 ### Frontend Development
